@@ -24,8 +24,9 @@
 - [Deep Dive: Microplastics & BBB Damage](research-clues/mnp_bbb_interaction.md)
 - [Quantitative Modeling: Liver-Brain-Plastic Axis](research-clues/liver_brain_plastic_axis.md)
 
-### 3. 研究策略 (Strategy)
+### 3. 研究策略與工具 (Strategy & Tools)
 - [Research Logic Matrix: Inter-Axis Interaction](roadmap/logic_matrix.md)
+- [Dementia Research Terminology (專業術語對照表)](TERMINOLOGY.md)
 - [2025+ Research Strategy & Blue Oceans](RESEARCH_STRATEGY.md)
 
 ---
