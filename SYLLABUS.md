@@ -1,40 +1,39 @@
-# 病毒性肝炎學習大綱 (Viral Hepatitis Learning Syllabus)
+# 腦退化病研究大綱 (Dementia Research Syllabus)
 
-> 使用此文件追蹤你的學習進度。完成後請勾選對應項目。
+> 使用此文件追蹤研究進度。
 
-## 📊 第一階段：基礎 (Phase 1: Foundations)
-- [ ] [模組 01：導論與比較 (Module 01: Introduction & Comparison)](modules/01_intro_comparison.md)
-    - [ ] 病毒性肝炎的通用病理學 (General Pathology of Viral Hepatitis)
-    - [ ] 傳播方式、潛伏期與慢性化對照表 (Transmission, Incubation, and Chronicity Table)
-    - [ ] 流行病學概覽 (Epidemiology Overview)
-- [ ] [模組 02：肝臟解剖與生理複習 (Module 02: Liver Anatomy & Physiology Recap)](modules/02_liver_basics.md)
-    - [ ] 功能性解剖 (Functional Anatomy - Lobules & Acini)
-    - [ ] 膽紅素代謝 (Bilirubin Metabolism)
+## 📊 第一階段：基礎與分類 (Phase 1: Foundations & Classification)
+- [ ] [模組 01：腦退化病導論 (Module 01: Introduction to Dementia)](modules/01_intro_dementia.md)
+    - [ ] 腦退化病 (Dementia) 與 認知障礙症 (Cognitive Impairment) 定義
+    - [ ] 阿茲海默症 (Alzheimer's Disease - AD)
+    - [ ] 血管性癡呆 (Vascular Dementia - VD)
+    - [ ] 路易氏體癡呆 (Dementia with Lewy Bodies - DLB)
+    - [ ] 額顳葉癡呆 (Frontotemporal Dementia - FTD)
 
-## 🧬 第二階段：B 型肝炎 (Phase 2: Hepatitis B - HBV)
-- [ ] [模組 03：HBV 病毒學與複製 (Module 03: HBV Virology & Replication)](modules/03_hbv_virology.md)
-- [ ] [模組 04：HBV 血清學大師班 (Module 04: HBV Serology Masterclass)](modules/04_hbv_serology.md)
-    - [ ] HBsAg, anti-HBs, anti-HBc, HBeAg, anti-HBe
-    - [ ] HBV DNA 與 cccDNA
-- [ ] [模組 05：慢性 B 肝管理 (Module 05: Chronic HBV Management)](modules/05_hbv_treatment.md)
+## 🧬 第二階段：神經病理學 (Phase 2: Neuropathology)
+- [ ] [模組 02：病理機制 (Module 02: Neuropathology Mechanisms)](modules/02_neuropathology.md)
+    - [ ] 澱粉樣蛋白假說 (Amyloid-beta Hypothesis)
+    - [ ] Tau 蛋白過度磷酸化 (Tau Hyperphosphorylation)
+    - [ ] 神經炎症 (Neuroinflammation)
 
-## 💊 第三階段：C 型肝炎與其他 (Phase 3: Hepatitis C - HCV & Others)
-- [ ] [模組 06：HCV 診斷與 DAA 療法 (Module 06: HCV Diagnosis & DAA Therapy)](modules/06_hcv.md)
-- [ ] [模組 07：A 型與 E 型肝炎 (Module 07: Hepatitis A & E - Enteric)](modules/07_enteric_hepatitis.md)
-- [ ] [模組 08：D 型肝炎 (Module 08: Hepatitis D - The Delta Co-infection)](modules/08_hdv.md)
+## 🧠 第三階段：診斷與生物標記 (Phase 3: Diagnostics & Biomarkers)
+- [ ] [模組 03：臨床評估工具 (Module 03: Clinical Assessment)](modules/03_clinical_scales.md)
+    - [ ] MMSE, MoCA 評估表
+    - [ ] 臨床失智評定量表 (CDR) / 全球退化量表 (GDS)
+- [ ] [模組 04：生物標記與影像 (Module 04: Biomarkers & Imaging)](modules/04_biomarkers.md)
+    - [ ] 腦脊髓液 (CSF) 檢測
+    - [ ] PET 影像 (Amyloid/Tau PET)
+    - [ ] MRI 腦部萎縮分析
 
-## 🏥 第四階段：併發症與臨床實務 (Phase 4: Complications & Clinical Practice)
-- [ ] [模組 09：肝硬化與門脈高壓 (Module 09: Cirrhosis & Portal Hypertension)](modules/09_cirrhosis.md)
-- [ ] [模組 10：肝細胞癌 (Module 10: Hepatocellular Carcinoma - HCC)](modules/10_hcc.md)
-- [ ] [模組 11：急性肝衰竭 (Module 11: Acute Liver Failure)](modules/11_alf.md)
+## 💊 第四階段：治療與干預 (Phase 4: Treatment & Interventions)
+- [ ] [模組 05：藥物治療 (Module 05: Pharmacotherapy)](modules/05_pharmacotherapy.md)
+    - [ ] 膽鹼酶抑制劑 (AChEIs)
+    - [ ] NMDA 受體拮抗劑
+    - [ ] 單株抗體療法 (如 Aducanumab/Lecanemab)
 
-## 📝 第五階段：評估 (Phase 5: Assessment)
-- [ ] 完成測驗 01：鑑別診斷 (Quiz 01: Differential Diagnosis)
-- [ ] 完成 HBV 血清學個案研究 (HBV Serology Case Studies)
-- [ ] 最終綜合複習 (Final Comprehensive Review)
+## 🔬 第五階段：AI 與前沿技術 (Phase 5: AI & Future Tech)
+- [ ] [模組 06：深度學習在影像識別中的應用 (Module 06: AI in Medical Imaging)](modules/06_ai_imaging.md)
+- [ ] [模組 07：大語言模型 (LLM) 在認知篩查中的潛力 (Module 07: LLMs in Screening)](modules/07_llm_screening.md)
 
-## 🔬 第六階段：前沿研究與技術 (Phase 6: Advanced Research & Technology)
-- [ ] [模組 12：AI 與機器學習在肝炎診斷中的應用 (Module 12: AI & Machine Learning in Hepatitis Diagnosis)](modules/12_ai_diagnostics_research.md)
-    - [ ] 核心演算法 (Core Algorithms - RF, NB, KNN, SVM)
-    - [ ] 數據預處理 (Data Preprocessing - SMOTE, SFS)
-    - [ ] 基準測試與臨床準確度 (Benchmarks & Clinical Accuracy)
+---
+*最後更新：2025年12月26日*
