@@ -18,6 +18,7 @@
 ### 2. 研究線索深度解析 (Research Intelligence)
 - [NSC 2024-2025 Flagship Collection](research-clues/nsc_2024_2025_collection.md)
 - [Nature 2024: GSDMD & BBB Disruption](research-clues/nature_2024_gsdmd_bbb.md)
+- [Advanced: 2025 Brain Digital Twin (BDT) Framework](research-clues/brain_digital_twin_2025.md)
 - [Nature 2025: Wildfire Smoke & AD Risk](research-clues/nature_2025_wildfire_pm25.md)
 - [Science Adv 2025: Noise Pollution & Glymphatic Failure](research-clues/science_2025_noise_glymphatic.md)
 - [Advanced: AI Simulation of PM2.5 BBB Penetration](research-clues/ai_pm25_bbb_simulation.md)
