@@ -18,6 +18,7 @@
 ### 2. 研究線索深度解析 (Research Intelligence)
 - [NSC 2024-2025 Flagship Collection](research-clues/nsc_2024_2025_collection.md)
 - [Nature 2024: GSDMD & BBB Disruption](research-clues/nature_2024_gsdmd_bbb.md)
+- [Nature 2025: Wildfire Smoke & AD Risk](research-clues/nature_2025_wildfire_pm25.md)
 - [Nature 2025: Exercise & Genomic Reversal](research-clues/nature_2025_exercise_genomics.md)
 - [Cell 2024: Tau Aggregation Kinetics](research-clues/cell_2024_tau_kinetics.md)
 - [Science 2025: Neuro-Immune Niche Mapping](research-clues/science_2025_neuro_immune_niche.md)
