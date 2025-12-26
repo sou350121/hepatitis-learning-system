@@ -1,52 +1,53 @@
-# Module 12: AI & Machine Learning in Hepatitis Diagnosis
+# 模組 12：肝炎診斷中的 AI 與機器學習 (Module 12: AI & Machine Learning in Hepatitis Diagnosis)
 
-> **Reference**: *Indonesian Journal of Computer Science*, Vol. 13, No. 3, 2024. ISSN: 2549-7286.
+> **參考文獻 (Reference)**：*Indonesian Journal of Computer Science*, Vol. 13, No. 3, 2024. ISSN: 2549-7286.
 
-## 1. Introduction
-Modern hepatology is increasingly leveraging Machine Learning (ML) to improve the accuracy, speed, and cost-effectiveness of hepatitis diagnosis. By analyzing clinical and laboratory findings (like age, gender, bilirubin, albumin, etc.), ML models can predict disease presence, severity, and patient outcomes.
+## 1. 簡介 (Introduction)
+現代肝臟病學正日益利用機器學習 (Machine Learning, ML) 來提高肝炎診斷的準確性、速度和成本效益。透過分析臨床和實驗室發現（如年齡、性別、膽紅素 Bilirubin、白蛋白 Albumin 等），ML 模型可以預測疾病的存在、嚴重程度以及患者的預後 (Outcomes)。
 
 ---
 
-## 2. Core Algorithms & Methodology
+## 2. 核心演算法與方法論 (Core Algorithms & Methodology)
 
-| Algorithm | Description | Performance Highlights |
+| 演算法 (Algorithm) | 描述 (Description) | 性能亮點 (Performance Highlights) |
 | :--- | :--- | :--- |
-| **Random Forest (RF)** | An ensemble method combining multiple decision trees. Handles complex interactions well. | Achieved **99.9% accuracy** in some UCI datasets; 94.06% in Egyptian HCV studies. |
-| **Naive Bayes (NB)** | Probabilistic model based on Bayes' Theorem. Simple and scalable for real-time diagnostics. | Achieved ~90% accuracy; effective for early patient stratification. |
-| **K-Nearest Neighbors (KNN)** | Classifies based on the similarity of feature vectors. | Accuracy varies (89.43% to 98.1%) depending on the value of 'K'. |
-| **Support Vector Machines (SVM)** | Effective in high-dimensional spaces using kernel functions (Gaussian/Linear). | Gaussian RBF kernel reached **99.55% accuracy**. |
-| **Artificial Neural Networks (ANN)** | Mimics biological neural processing. | High performance with ~96% accuracy and minimal Mean Square Error. |
+| **隨機森林 (Random Forest, RF)** | 一種結合多棵決策樹的集成方法 (Ensemble Method)。能很好地處理複雜的交互作用。 | 在某些 UCI 數據集中達到 **99.9% 準確率**；在埃及 HCV 研究中為 94.06%。 |
+| **貝氏分類器 (Naive Bayes, NB)** | 基於貝氏定理 (Bayes' Theorem) 的機率模型。簡單且易於擴展，適用於實時診斷。 | 達到約 90% 的準確率；對於早期患者分層 (Stratification) 非常有效。 |
+| **K-近鄰演算法 (K-Nearest Neighbors, KNN)** | 根據特徵向量的相似性進行分類。 | 準確率介於 89.43% 到 98.1%，取決於 'K' 的取值。 |
+| **支持向量機 (Support Vector Machines, SVM)** | 使用核函數 (Kernel Functions, 如 Gaussian/Linear) 在高維空間中有效運作。 | Gaussian RBF 核函數達到 **99.55% 準確率**。 |
+| **人工神經網路 (Artificial Neural Networks, ANN)** | 模仿生物神經處理過程。 | 高性能，準確率約 96%，且均方誤差 (Mean Square Error) 極小。 |
 
 ---
 
-## 3. Key Optimization Techniques
-To reach high accuracy (90%+), researchers employ several critical preprocessing and optimization steps:
+## 3. 關鍵優化技術 (Key Optimization Techniques)
+為了達到高準確率 (90%+)，研究人員採用了幾個關鍵的預處理和優化步驟：
 
-### A. Feature Selection
-*   **Sequential Forward Selection (SFS)**: Identifies the most relevant diagnostic traits (e.g., specific blood markers).
-*   **Ranker Search & Info-Gain**: Reduces dimensionality to focus on the most impactful data points.
+### A. 特徵選擇 (Feature Selection)
+*   **順序前向選擇 (Sequential Forward Selection, SFS)**：識別最相關的診斷特徵（例如特定的血液標記物）。
+*   **排名搜索與資訊增益 (Ranker Search & Info-Gain)**：降低維度，專注於最具影響力的數據點。
 
-### B. Data Imbalance & Missing Values
-*   **SMOTE (Synthetic Minority Over-sampling Technique)**: Balances datasets where infected cases are much fewer than healthy cases.
-*   **Mean/Mode Imputation**: Filling in missing clinical data to ensure model robustness.
+### B. 數據不平衡與缺失值 (Data Imbalance & Missing Values)
+*   **SMOTE (Synthetic Minority Over-sampling Technique)**：平衡數據集，解決感染病例遠少於健康病例的問題。
+*   **均值/眾數插補 (Mean/Mode Imputation)**：填充缺失的臨床數據，確保模型的穩健性 (Robustness)。
 
-### C. Hyperparameter Optimization
-*   **Particle Swarm Optimization (PSO)**: Used to find the optimal 'K' in KNN, improving accuracy by ~2%.
-*   **Random Search**: Tuning neural network parameters to boost performance beyond default settings.
-
----
-
-## 4. Clinical Significance
-*   **Early Detection**: ML allows for identification of hepatitis stages before severe symptoms manifest.
-*   **Personalized Treatment**: By uncovering key diagnostic traits, these models help doctors choose tailored intervention strategies.
-*   **Scalability**: High-throughput diagnostic tools enable screening in resource-limited environments.
-
----
-[Back to Syllabus](../SYLLABUS.md)
+### C. 超參數優化 (Hyperparameter Optimization)
+*   **粒子群優化 (Particle Swarm Optimization, PSO)**：用於尋找 KNN 中的最佳 'K' 值，使準確率提升約 2%。
+*   **隨機搜索 (Random Search)**：調整神經網路參數，使其性能超越預設設定。
 
 ---
 
-## 🌟 給小白的 AI 演算法大白話指南
+## 4. 臨床意義 (Clinical Significance)
+*   **早期檢測 (Early Detection)**：ML 允許在嚴重症狀出現之前識別肝炎階段。
+*   **個性化治療 (Personalized Treatment)**：透過揭示關鍵診斷特徵，這些模型幫助醫生選擇量身定制的干預策略。
+*   **擴展性 (Scalability)**：高通量 (High-throughput) 診斷工具使在資源有限的環境中進行篩查成為可能。
+
+---
+
+[回到大綱 (Back to Syllabus)](../SYLLABUS.md)
+
+---
+
+## 🌟 給小白的 AI 演算法大白話指南 (Layperson's Guide)
 
 如果把「診斷肝炎」比喻成一場**醫生會診**，這五種演算法就像五位風格迥異的專家：
 
@@ -69,4 +70,3 @@ To reach high accuracy (90%+), researchers employ several critical preprocessing
 ### 5. 人工神經網路 (Artificial Neural Networks, ANN) —— 「超級大腦」
 *   **怎麼運作**：它模仿人類大腦神經元的連接方式。數據會經過一層又一層的「神經元」處理，每一層都會捕捉一些肉眼看不見的細微特徵（比如年齡和某種蛋白質指標的微妙比例）。
 *   **為什麼厲害**：它是目前 AI 的主流，擅長處理極其複雜、人類醫生也難以總結規律的隱藏特徵，準確率極高。
-

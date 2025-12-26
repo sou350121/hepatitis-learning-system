@@ -1,35 +1,34 @@
-# Viral Hepatitis Learning System (VHLS)
+# 病毒性肝炎學習系統 (Viral Hepatitis Learning System - VHLS)
 
-> A systematic, modular, and extensible handbook for mastering viral hepatitis.
+> 一個系統化、模組化且可擴展的手冊，旨在幫助掌握病毒性肝炎 (Viral Hepatitis) 知識。
 
-## 🎯 Vision
-This repository is designed to be a "living book" and a structured learning environment for medical students, researchers, and healthcare professionals. By using a modular Markdown approach, it allows for easy updates, community contributions, and integration with external tools (like Anki or quiz engines).
+## 🎯 願景 (Vision)
+本倉庫被設計為一個「活的筆記 (Living Book)」以及為醫學生、研究人員和醫療保健專業人士打造的結構化學習環境。透過使用模組化的 Markdown 方式，它可以輕鬆進行更新、社區貢獻，並與外部工具（如 Anki 或測驗引擎）整合。
 
-## 📂 Project Structure
+## 📂 項目結構 (Project Structure)
 ```text
 .
-├── README.md               # Project overview and entry point
-├── SYLLABUS.md             # The systematic learning roadmap
-├── modules/                # Core knowledge modules
+├── README.md               # 項目概覽與入口點
+├── SYLLABUS.md             # 系統化學習路徑 (Learning Roadmap)
+├── modules/                # 核心知識模組 (Core Knowledge Modules)
 │   ├── 01_intro_comparison.md
-│   ├── 02_hepta_b_deep_dive.md
+│   ├── 12_ai_diagnostics_research.md
 │   └── ...
-├── data/                   # Structured data (JSON/YAML) for automation
+├── data/                   # 用於自動化的結構化數據 (JSON/YAML)
 │   ├── flashcards/
 │   └── quizzes/
-└── assets/                 # Diagrams, charts, and media
+└── assets/                 # 圖表、圖表和媒體資源
 ```
 
-## 🚀 Getting Started
-1. Start with the [SYLLABUS.md](SYLLABUS.md) to understand the learning path.
-2. Read [Module 01: Introduction & Comparison](modules/01_intro_comparison.md) for a high-level overview.
-3. Track your progress using the checkboxes in the Syllabus.
+## 🚀 開始學習 (Getting Started)
+1. 從 [SYLLABUS.md](SYLLABUS.md) 開始，了解學習路徑。
+2. 閱讀 [模組 01：導論與比較 (Module 01: Introduction & Comparison)](modules/01_intro_comparison.md) 獲取高層次概覽。
+3. 使用大綱 (Syllabus) 中的複選框追蹤你的進度。
 
-## 🛠️ How to Extend
-- **Add a Module**: Create a new `.md` file in `modules/` and link it in `SYLLABUS.md`.
-- **Add Quiz Data**: Add a JSON file to `data/quizzes/` following the established schema.
-- **Improve Content**: Pull requests are welcome for evidence-based updates.
+## 🛠️ 如何擴展 (How to Extend)
+- **新增模組**：在 `modules/` 中建立一個新的 `.md` 文件，並在 `SYLLABUS.md` 中建立連結。
+- **新增測驗數據**：按照建立的 Schema 在 `data/quizzes/` 中新增 JSON 文件。
+- **改進內容**：歡迎提交基於證據 (Evidence-based) 的更新 Pull Requests。
 
 ---
-*Disclaimer: This is an educational resource. Always consult clinical guidelines (e.g., AASLD, EASL) for medical decision-making.*
-
+*免責聲明：這是一個教育資源。在進行醫療決策時，請務必諮詢臨床指南（如 AASLD, EASL）。*
