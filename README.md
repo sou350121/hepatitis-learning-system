@@ -93,6 +93,7 @@
 | **Logic Matrix** | 跨轴线交互矩阵与优先级假设 | [View Matrix](./strategy/logic_matrix.md) |
 | **Terminology** | 100+ 专业术语英汉对照与逻辑解析 | [Open Glossary](./reference/terminology.md) |
 | **NSC Collection** | 2024-2025 旗舰研究论文集萃 | [Paper Index](./reference/nsc_collection.md) |
+| **Experimental Protocol** | 可复现实验协议（iPSC/BBB/线粒体/两击 Aβ/救援） | [Open Protocol](./strategy/protocols/pe30nm_ipsc_mito_ad_fast.md) |
 | **Strategy** | 2025+ 蓝海研究方向与范式转移 | [Read Strategy](./strategy/research_strategy.md) |
 
 ---

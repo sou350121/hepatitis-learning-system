@@ -47,7 +47,15 @@
 
 ---
 
-## 5. 参考文献 (References)
+## 5. 实验方法速查 (Wet-lab Quickstart)
+
+如果你要用 **iPSC（神经元/内皮/星形胶质）**快速验证“纳米塑料 → 线粒体危机 → AD 端点（p‑Tau/突触）”，本仓库已提供可复现快版协议（按 2–3 周拿到 Go/No‑Go 设计，适配共聚焦/WB/TEM/scRNA）：
+
+- [PE 30nm iPSC 线粒体快版协议](../strategy/protocols/pe30nm_ipsc_mito_ad_fast.md)
+
+---
+
+## 6. 参考文献 (References)
 - **Durán, J., et al. (2024).** Neuronal glycogen accumulation and AD progression. *Nature Metabolism*.
 - **Tan, M. S., et al. (2025).** Metabolic reprogramming of the brain in neurodegeneration. *Cell Metabolism*.
 
