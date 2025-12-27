@@ -1,22 +1,42 @@
-# Intelligence Report: Nature 2025 - Exercise & Genomic Reversal
+# Intelligence Report: Nature 2025 - Exercise & Genomic Reversal (运动与基因组逆转)
 
-## 1. 論文背景 (Context)
+## 1. 论文背景 (Context)
 - **Title**: *Exercise-induced genetic reprogramming in the AD brain* (Nature Neuroscience, 2025).
-- **邏輯位置**：填補了「生活方式干預」與「分子機制」之間的巨大鴻溝�?
+- **逻辑位置**：填补了“生活方式干预”与“分子机制”之间的巨大鸿沟。
 
-## 2. 核心發現 (Core Clues)
-- **基因重編�?(Genomic Reprogramming)**：規律運動能恢復 AD 患者大腦中超過 200 個關鍵基因的功能�?
-- **神經再生 (Neurogenesis)**：鑑定出特定的轉錄因�?(Transcription Factors)，受運動誘導並直接促進海馬體的神經新生�?
+---
 
-## 3. 技術邊�?(Experimental Edge)
-- **Spatial Transcriptomics (空間轉錄�?**：精確定位了受運動影響的神經元生態位 (Niches)�?
-- **Epigenetic Mapping**：證明運動改變了特定啟動�?(Promoters) 的甲基化狀態�?
+## 2. 核心逻辑图 (Exercise-Genome Logic)
 
-## 5. 參考文�?(References)
+```text
+    [ 🏃 规律运动 ] ───> [ 💪 骨骼肌释放 Irisin ]
+                                │
+                                ▼
+    ╭──────────────────────────────────────────────────╮
+    │ 🧠 [ 穿透 BBB ] ───> [ 🧬 基因组重编程 ]          │
+    │      ( 激活 200+ 关键功能基因 🛡️ )                │
+    ╰─────────────────────┬────────────────────────────╯
+                          │
+                          ▼
+    ╭──────────────────────────────────────────────────╮
+    │ 🌱 [ 神经新生增强 ] <─── ( BDNF 表达上调 📈 )    │
+    │      ( 海马体突触修复 & 记忆改善 ✨ )            │
+    ╰──────────────────────────────────────────────────╯
+```
+
+---
+
+## 3. 核心发现 (Core Clues)
+- **基因重编程 (Genomic Reprogramming)**：规律运动能恢复 AD 患者大脑中超过 200 个关键基因的功能。
+- **神经再生 (Neurogenesis)**：鉴定出特定的转录因子 (Transcription Factors)，受运动诱导并直接促进海马体的神经新生。
+
+## 4. 技术边界 (Experimental Edge)
+- **Spatial Transcriptomics (空间转录组)**：精确定位了受运动影响的神经元生态位 (Niches)。
+- **Epigenetic Mapping**：证明运动改变了特定启动子 (Promoters) 的甲基化状态。
+
+## 5. 参考文献 (References)
 - **Neva-Calvo, A., et al. (2025).** Exercise-induced genetic reprogramming in the AD brain. *Nature Neuroscience*.
 - **Wrann, C. D., et al. (2024).** Irisin mediates the cognitive benefits of exercise in Alzheimer's disease. *Nature Metabolism*.
 
 ---
-[回到目錄](../../README.md)
-
-
+[回到目录](../../README.md)

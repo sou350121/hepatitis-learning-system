@@ -1,33 +1,53 @@
-# Intelligence Report: Science Advances 2025 - Noise Pollution & Glymphatic Failure
+# Intelligence Report: Science Advances 2025 - Noise Pollution & Glymphatic Failure (噪音污染与类淋巴系统失效)
 
-## 1. 論文背景 (Context)
+## 1. 论文背景 (Context)
 - **Title**: *Urbanization, Noise Pollution, and Cognitive Impairment: The Glymphatic Link* (Science Advances, 2025).
-- **研究背景**：隨著全球城市化，慢性噪音暴露已成為隱形的公共健康威脅�?
-- **邏輯位置**：這是首篇將「環境聲學」與「腦部廢物清�?(Axis A)」在分子層面聯繫起來的研究�?
-
-## 2. 核心發現 (Core Clues)
-
-### A. 睡眠結構的碎片化 (Sleep Fragmentation)
-- **機制**：慢性城市噪音（即使在較低分貝下）會顯著縮短 **非快速眼動睡�?(NREM)** 的深度，特別是慢波睡�?(Slow-wave sleep)�?
-- **物理後果**：大腦的 **類淋巴系�?(Glymphatic System)** 在慢波睡眠期間流量最大。研究顯示，慢性噪音暴露組�?Aβ 清除速率下降�?**35%**�?
-
-### B. 腎上腺素能的神經調控
-- **發現**：噪音誘導的微覺�?(Micro-arousals) 會導致藍斑核 (Locus Coeruleus) 持續釋放 **去甲腎上腺素 (Norepinephrine)**�?
-- **線索 (Clue)**：高水平的去甲腎上腺素會關閉類淋巴系統的「排污門」，導致蛋白毒性物質在細胞間隙蓄積�?
-
-## 3. 跨軸線交�?(Cross-Axis Synergy)
-- **Axis A 關聯**：噪音不是直接產�?Aβ，而是通過「抑制清除」來改寫聚合動力學曲線�?
-- **Axis C 關聯**：生活方式干預（如隔音睡眠環境）可能比單純的藥物清除更具預防價值�?
-
-## 4. 研究線索 (Research Clues)
-- **生物標記**：夜間去甲腎上腺素水平是否能預測長期的認知退化風險？
-- **干預實驗**：使用白噪音 (White Noise) 或粉紅噪�?(Pink Noise) 優化睡眠結構，能否逆轉環境噪音造成的清除障礙？
-
-## 5. 參考文�?(References)
-- **Zhang, L., et al. (2025).** Urbanization, Noise Pollution, and Cognitive Impairment. *Science Advances*.
-- **Xie, L., et al. (2013/2024 updated).** Sleep drives metabolite clearance from the adult brain. *Science* (Foundation for this study).
+- **研究背景**：随着全球城市化，慢性噪音暴露已成为隐形的公共健康威胁。
+- **逻辑位置**：这是首篇将“环境声学”与“大脑废物清除 (Axis A)”在分子层面联系起来的研究。
 
 ---
-[回到目錄](../../README.md)
 
+## 2. 核心逻辑图 (Noise-Glymphatic Logic)
 
+```text
+    [ 🏙️ 城市噪音暴露 ] ───> [ 🧠 蓝斑核激活 ]
+                                    │
+                                    ▼
+    ╭──────────────────────────────────────────────────╮
+    │ ⚡ [ 去甲肾上腺素释放 ] (Norepinephrine)          │
+    │      ( 物理性“关闭”类淋巴排污门 🚪 )             │
+    ╰─────────────────────┬────────────────────────────╯
+                          │
+                          ▼
+    ╭──────────────────────────────────────────────────╮
+    │ 🗑️ [ Aβ 清除率下降 35% ] ───> [ 🕸️ 蛋白毒性积聚 ] │
+    │      ( 深度睡眠碎片化 & 系统失效 📉 )            │
+    ╰──────────────────────────────────────────────────╯
+```
+
+---
+
+## 3. 核心发现 (Core Clues)
+
+### A. 睡眠结构的碎片化 (Sleep Fragmentation)
+- **机制**：慢性城市噪音（即使在较低分贝下）会显著缩短 **非快速眼动睡眠 (NREM)** 的深度，特别是慢波睡眠 (Slow-wave sleep)。
+- **物理后果**：大脑的 **类淋巴系统 (Glymphatic System)** 在慢波睡眠期间流量最大。研究显示，慢性噪音暴露组的 Aβ 清除速率下降了 **35%**。
+
+### B. 肾上腺素能的神经调控
+- **发现**：噪音诱导的微觉醒 (Micro-arousals) 会导致蓝斑核 (Locus Coeruleus) 持续释放 **去甲肾上腺素 (Norepinephrine)**。
+- **线索 (Clue)**：高水平的去甲肾上腺素会关闭类淋巴系统的“排污门”，导致蛋白毒性物质在细胞间隙蓄积。
+
+## 4. 跨轴线交互 (Cross-Axis Synergy)
+- **Axis A 关联**：噪音不是直接产生 Aβ，而是通过“抑制清除”来改写聚合动力学曲线。
+- **Axis C 关联**：生活方式干预（如隔音睡眠环境）可能比单纯的药物清除更具预防价值。
+
+## 5. 研究线索 (Research Clues)
+- **生物标记**：夜间去甲肾上腺素水平是否能预测长期的认知退化风险？
+- **干预实验**：使用白噪音 (White Noise) 或粉红噪音 (Pink Noise) 优化睡眠结构，能否逆转环境噪音造成的清除障碍？
+
+## 6. 参考文献 (References)
+- **Zhang, L., et al. (2025).** Urbanization, Noise Pollution, and Cognitive Impairment. *Science Advances*.
+- **Xie, L., et al. (2013/2024 updated).** Sleep drives metabolite clearance from the adult brain. *Science*.
+
+---
+[回到目录](../../README.md)

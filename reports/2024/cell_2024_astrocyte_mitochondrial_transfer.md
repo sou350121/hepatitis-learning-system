@@ -1,28 +1,50 @@
-# Intelligence Report: Cell 2024 - Astrocyte Mitochondrial Transfer
+# Intelligence Report: Cell 2024 - Astrocyte Mitochondrial Transfer (星形胶质细胞线粒体转移)
 
-## 1. 論文背景 (Context)
-- **旗艦論文**：*Astrocytes transfer mitochondria to neurons to promote neuroprotection and repair after injury* (Cell, 2024).
-- **核心機制**：打破了「神經元獨立代謝」的傳統觀念，揭示了神經膠質細胞與神經元之間的「能量救助」機制。
-- **邏輯位置**：Axis B (神經免疫) 與大腦修復機制的核心連接點。
+## 1. 论文背景 (Context)
+- **旗舰论文**：*Astrocytes transfer mitochondria to neurons to promote neuroprotection and repair after injury* (Cell, 2024).
+- **核心机制**：打破了“神经元独立代谢”的传统观念，揭示了神经胶质细胞与神经元之间的“能量救助”机制。
+- **逻辑位置**：Axis B (神经免疫) 与大脑修复机制的核心连接点。
 
-## 2. 核心發現 (Core Clues)
+---
 
-### A. 星形膠質細胞的「應急響應」
-- **機制**：當神經元因 Aβ 毒性或氧化應激 (Axis E) 導致線粒體功能障礙時，相鄰的星形膠質細胞 (Astrocytes) 會通過 **CD38 介導的囊泡運輸** 釋放健康的線粒體。
-- **後果**：神經元攝取這些外源線粒體後，ATP 水平顯著恢復，神經元死亡率下降 40%。
+## 2. 核心逻辑图 (Energy Rescue Logic)
 
-### B. 代謝「外掛」系統
-- **發現**：這種轉移不僅是修復，還能增強受損區域神經元的抗壓性 (Resilience)。
-- **線索 (Clue)**：這解釋了為什麼部分人群雖然有病理蛋白沉積，但認知功能依然保持良好——其星形膠質細胞的救助效率可能更高。
+```text
+       [ 🌟 星形胶质细胞 ]                 [ 🧠 神经元 ]
+      ( Astrocyte )                       ( Neuron )
+            │                                  │
+            │          ( 🆘 能量危机 )         │
+            │ <───────────────────────────────┤
+            │                                  │
+    ╭───────┴───────╮                  ╭───────┴───────╮
+    │ 🔋 储备线粒体  │ ───( 🚢 运输 )──> │ 📉 线粒体衰竭  │
+    │ (CD38+ 囊泡)  │                  │ (Aβ/应激损伤) │
+    ╰───────┬───────╯                  ╰───────┬───────╯
+            │                                  │
+            ▼                                  ▼
+    [ 🛡️ 稳态维持 ]                    [ ⚡ 功能恢复 ]
+                                       ( ATP 📈, 存活率 ⬆️ )
+```
 
-## 3. 研究啟示 (Research Clues)
-- **治療新靶點**：是否能開發出一種小分子藥物，增強星形膠質細胞向神經元轉移線粒體的頻率？
-- **數位孿生模擬**：在 Axis F 模型中，加入「星形膠質細胞-神經元能量交互」變量，以更精確地模擬腦組織的韌性。
+---
 
-## 4. 參考文獻 (References)
+## 3. 核心发现 (Core Clues)
+
+### A. 星形胶质细胞的“应急响应”
+- **机制**：当神经元因 Aβ 毒性或氧化应激 (Axis E) 导致线粒体功能障碍时，相邻的星形胶质细胞 (Astrocytes) 会通过 **CD38 介导的囊泡运输** 释放健康的线粒体。
+- **后果**：神经元摄取这些外源线粒体后，ATP 水平显著恢复，神经元死亡率下降 40%。
+
+### B. 代谢“外挂”系统
+- **发现**：这种转移不仅是修复，还能增强受损区域神经元的抗压性 (Resilience)。
+- **线索 (Clue)**：这解释了为什么部分人群虽然有病理蛋白沉积，但认知功能依然保持良好——其星形胶质细胞的救助效率可能更高。
+
+## 4. 研究启示 (Research Clues)
+- **治疗新靶点**：是否能开发出一种小分子药物，增强星形胶质细胞向神经元转移线粒体的频率？
+- **数字孪生模拟**：在 Axis F 模型中，加入“星形胶质细胞-神经元能量交互”变量，以更精确地模拟脑组织的韧性。
+
+## 5. 参考文献 (References)
 - **Hayakawa, K., et al. (2024).** Mitochondrial transfer from astrocytes to neurons: A new paradigm in neuroprotection. *Cell*.
 - **Liddelow, S. A., et al. (2024).** Reactive astrocytes in neurodegeneration. *Nature*.
 
 ---
-[回到目錄](../../README.md)
-
+[回到目录](../../README.md)

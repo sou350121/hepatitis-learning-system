@@ -1,30 +1,50 @@
-# Intelligence Report: Science 2025 - Spatial Neuro-Immune Niche
+# Intelligence Report: Science 2025 - Spatial Neuro-Immune Niche (神经免疫生态位)
 
-## 1. 論文背景 (Context)
+## 1. 论文背景 (Context)
 - **Title**: *Single-cell spatial mapping of the neuro-immune niche in Alzheimer's* (Science, 2025).
-- **研究對象**：AD 患者大腦中的特定區域�?
-- **邏輯位置**：填補了「免疫細胞確實存在於大腦」到「免疫細胞具體如何與病理斑塊交互」之間的時空空白�?
+- **研究对象**：AD 患者大脑中的特定区域。
+- **逻辑位置**：填补了“免疫细胞确实存在于大脑”到“免疫细胞具体如何与病理斑块交互”之间的时空空白。
 
-## 2. 核心發現與研究線�?(Core Clues)
+---
 
-### A. T 細胞的「病理性聚集�?(T-cell Sequestration)
-- **發現**：外�?CD8+ T 細胞並非隨機分佈，而是精確地聚集在 **Aβ 斑塊周圍的神經免疫生態位 (Neuro-immune Niche)**�?
-- **線索 (Clue)**：這表明斑塊不僅僅是蛋白沉澱，更是一個引發外周免疫響應的「誘餌」�?
+## 2. 核心逻辑图 (Neuro-Immune Niche)
 
-### B. Microglia �?T 細胞的「對話�?
-- **發現**：鑑定出了一種特殊的 **CXCL10+ Microglia** 亞群，它們負責招募並引發 T 細胞的神經毒性�?
-- **邏輯轉向**：從單純研究 Microglia 轉向研究 **Microglia-T Cell Crosstalk (對話)**�?
+```text
+    [ 🕸️ Aβ 淀粉样斑块 ] ───( 发出招募信号 )───┐
+                                              │
+                                              ▼
+    ╭──────────────────────────────────────────────────╮
+    │ 🏘️ [ 神经免疫生态位 ] (The Niche)                 │
+    │      ( 斑块 + 小胶质细胞 + T 细胞 🤝 )           │
+    ╰─────────────────────┬────────────────────────────╯
+                          │
+                          ▼
+    ╭──────────────────────────────────────────────────╮
+    │ ⚔️ [ 细胞间对话 ] (Crosstalk)                     │
+    │      ( Microglia 诱导 T 细胞产生神经毒性 💀 )    │
+    ╰──────────────────────────────────────────────────╯
+```
 
-## 3. 技術邊�?(Experimental Edge)
-- **Multiplexed Ion Beam Imaging (MIBI)**：同時觀察數十種蛋白質標記物在同一空間切片上的位置�?
-- **TCR Sequencing**：證明大腦中�?T 細胞具有克隆擴增 (Clonal Expansion)，即它們是在大腦內針對特定抗原進行反應�?
+---
 
-## 5. 參考文�?(References)
+## 3. 核心发现与研究线索 (Core Clues)
+
+### A. T 细胞的“病理性聚集” (T-cell Sequestration)
+- **发现**：外周 CD8+ T 细胞并非随机分布，而是精确地聚集在 **Aβ 斑块周围的神经免疫生态位 (Neuro-immune Niche)**。
+- **线索 (Clue)**：这表明斑块不仅仅是蛋白沉淀，更是一个引发外周免疫响应的“诱饵”。
+
+### B. Microglia 与 T 细胞的“对话”
+- **发现**：鉴定出了一种特殊的 **CXCL10+ Microglia** 亚群，它们负责招募并引发 T 细胞的神经毒性。
+- **逻辑转向**：从单纯研究 Microglia 转向研究 **Microglia-T Cell Crosstalk (对话)**。
+
+## 4. 技术边界 (Experimental Edge)
+- **Multiplexed Ion Beam Imaging (MIBI)**：同时观察数十种蛋白质标记物在同一空间切片上的位置。
+- **TCR Sequencing**：证明大脑中的 T 细胞具有克隆扩张 (Clonal Expansion)，即它们是在大脑内针对特定抗原进行反应。
+
+## 5. 参考文献 (References)
 - **Gate, D., et al. (2024).** Single-cell spatial mapping of the neuro-immune niche in Alzheimer's. *Science*.
 - **Troulé, K., et al. (2024).** CellPhoneDB v5: inferring cell-cell communication from single-cell multiomics data. *Nature Methods*.
 - **Stevens, B., et al. (2024).** Microglia-T cell crosstalk in the neurovascular niche. *Cell*.
 
 ---
-[回到目錄](../../README.md)
-
-
+[回到目录](../../README.md)

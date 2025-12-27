@@ -1,62 +1,82 @@
-# Intelligence Report: Microplastics & BBB Structural Disruption
+# Intelligence Report: Microplastics & BBB Structural Disruption (微塑料与血脑屏障结构破坏)
 
-## 1. 核心邏輯 (Logical Context)
-- **問題**：為什麼微塑料 (MNPs) 能在大腦中蓄積？
-- **背景**：血腦屏�?(Blood-Brain Barrier, BBB) 原本設計用於阻擋有害物質，但奈米級塑�?(NPs) 通過物理與生化雙重機制瓦解了這道防線�?
+## 1. 核心逻辑 (Logical Context)
+- **问题**：为什么微塑料 (MNPs) 能在大脑中蓄积？
+- **背景**：血脑屏障 (Blood-Brain Barrier, BBB) 原本设计用于阻挡有害物质，但纳米级塑料 (NPs) 通过物理与生化双重机制瓦解了这道防线。
 
-## 2. 物理損傷機制 (Physical Damage Mechanisms)
+---
 
-### A. 膜穿透與「生物冠」效�?(Protein Corona)
-- **機制**：進入血液的微塑料會被血漿蛋白包裹，形成「生物冠」。這讓塑料顆粒偽裝成內源性物質（如脂蛋白），透過受體介導的內吞作�?(Receptor-mediated endocytosis) 騙過內皮細胞�?
-- **線索 (Clue)**：微塑料不是「撞破」門，而是「刷臉」進去的�?
+## 2. 核心逻辑图 (MNP-BBB Damage)
 
-### B. 緊密連接蛋白 (Tight Junctions) 的物理支�?
-- **物理性損�?*：尖銳邊緣的奈米塑料碎片會直接物理切斷內皮細胞間的緊密連接蛋白 (�?Occludin, Claudin-5)�?
-- **後果**：導�?BBB 滲漏 (Leaky BBB)，不僅讓塑料進入，還讓外周炎症因子與病原體大規模入侵（Axis B 交互）�?
+```text
+    [ 🛑 微塑料颗粒 ] ───> [ 🩸 血液接触 ]
+                                 │
+                                 ▼
+    ╭──────────────────────────────────────────────────╮
+    │ 🎭 [ 生物冠伪装 ] (Protein Corona)                │
+    │      ( 模拟脂蛋白“刷脸”进入内皮细胞 🔑 )          │
+    ╰─────────────────────┬────────────────────────────╯
+                          │
+                          ▼
+    ╭──────────────────────────────────────────────────╮
+    │ 🔪 [ 物理损伤 ] ───> [ 🧱 BBB 完整性破裂 ]        │
+    │      ( 切断紧密连接蛋白 ➡️ 诱发炎症 Axis B )      │
+    ╰──────────────────────────────────────────────────╯
+```
 
-## 3. 下游病理結果
-- **活性氧 (ROS) 爆發**：塑料顆粒在小膠質細胞內無法降解，導致持續的氧化應激�?
-- **蛋白質聚合支�?*：微塑料表面帶負電，會吸引帶正電�?Aβ 單體，在其表面強制成�?(Nucleation)，這解釋了為何失智症患者腦部塑料濃度高�?
+---
+
+## 3. 物理损伤机制 (Physical Damage Mechanisms)
+
+### A. 膜穿透与“生物冠”效应 (Protein Corona)
+- **机制**：进入血液的微塑料会被血浆蛋白包裹，形成“生物冠”。这让塑料颗粒伪装成内源性物质（如脂蛋白），透过受体介导的内吞作用 (Receptor-mediated endocytosis) 骗过内皮细胞。
+- **线索 (Clue)**：微塑料不是“撞破”门，而是“刷脸”进去的。
+
+### B. 紧密连接蛋白 (Tight Junctions) 的物理支解
+- **物理性损坏**：尖锐边缘的纳米塑料碎片会直接物理切断内皮细胞间的紧密连接蛋白 (如 Occludin, Claudin-5)。
+- **后果**：导致 BBB 渗漏 (Leaky BBB)，不仅让塑料进入，还让外周炎症因子与病原体大规模入侵（Axis B 交互）。
+
+## 4. 下游病理结果
+- **活性氧 (ROS) 爆发**：塑料颗粒在小胶质细胞内无法降解，导致持续的氧化应激。
+- **蛋白质聚合支架**：微塑料表面带负电，会吸引带正电的 Aβ 单体，在其表面强制成核 (Nucleation)，这解释了为何失智症患者脑部塑料浓度高。
 
 ---
 
 # Cross-Axis Strategy: Axis C (Rejuvenation) vs Axis E (Toxicology)
 
-## 1. 抵消機制�?(Counteract Logic)
+## 1. 抵消机制图 (Counteract Logic)
 
 ```text
-   ☣️ [ Axis E: Env Insult ]           💪 [ Axis C: Defense ]
-     (Microplastics/PM2.5)             (Exercise/BDNF/Irisin)
-              �?                                �?
-              �?                                �?
-   ╭────────────────────�?           ╭────────────────────�?
-   �?💥 Barrier Damage  �?◀────⚡───�?�?🛠�?Endothelial Fix  �?
-   ╰──────────┬─────────�?           ╰──────────┬─────────�?
-              �?                                �?
-              └───────────�?[ ⚖️ BALANCE ] ◀─────�?
-                            ( Clinical Outcome )
+   ☣️ [ Axis E: 环境损伤 ]           💪 [ Axis C: 修复防御 ]
+     (微塑料/PM2.5)                   (运动/BDNF/Irisin)
+              │                                │
+              ▼                                ▼
+   ╭────────────────────╮           ╭────────────────────╮
+   │ 💥 屏障受损         │ ◀────⚡────│ 🛠️ 内皮修复强化     │
+   ╰──────────┬─────────╯           ╰──────────┬─────────╯
+              │                                │
+              └─────────── [ ⚖️ 平衡点 ] ◀──────╯
+                          ( 临床预后 )
 ```
 
-## 2. 如何利用 Axis C 抵消 Axis E 的損害？
+## 2. 如何利用 Axis C 抵消 Axis E 的损害？
 
-### A. 誘導修復機制 (Exercise-induced repair)
-- **機制**：規律運動誘導分泌的 **Irisin** �?**BDNF** 能強化血管內皮細胞的修復能力，重新合成被塑料損壞的緊密連接蛋白�?
-- **研究線索**：運動能增加大腦血流量，促�?**Glymphatic 清除速率**，這可能是排出身體奈米級塑料的少數自然途徑之一�?
+### A. 诱导修复机制 (Exercise-induced repair)
+- **机制**：规律运动诱导分泌的 **Irisin** 与 **BDNF** 能强化血管内皮细胞的修复能力，重新合成被塑料损坏的紧密连接蛋白。
+- **研究线索**：运动能增加大脑血流量，促进 **Glymphatic 清除速率**，这可能是排出身体纳米级塑料的少数自然途径之一。
 
-### B. 代謝性排�?(Metabolic Detox)
-- **策略**：優�?Axis C 中的肝臟代謝能力。肝臟是過濾血液中微塑料的第一道防線。健康的肝臟能減少進入大腦循環的塑料總量�?
-- **干預�?*：高纖維飲食與抗氧化劑（�?N-acetylcysteine）被證明能減少塑料誘導的全身性氧化應激�?
+### B. 代谢性排除 (Metabolic Detox)
+- **策略**：优化 Axis C 中的肝脏代谢能力。肝脏是过滤血液中微塑料的第一道防线。健康的肝脏能减少进入大脑循环的塑料总量。
+- **干预物**：高纤维饮食与抗氧化剂（如 N-acetylcysteine）被证明能减少塑料诱导的全身性氧化应激。
 
-## 3. 2025 研究者行動建�?
-- **組合實驗設計**：在暴露於高濃度微塑料的模型中，加入「運動組」對比其 BBB 完整性與 Aβ 沉積速率�?
-- **目標**：鑑定出受微塑料抑制、但受運動激活的「共同調控基因集」�?
+## 3. 2025 研究者行动建议
+- **组合实验设计**：在暴露于高浓度微塑料的模型中，加入“运动组”对比其 BBB 完整性与 Aβ 沉积速率。
+- **目标**：鉴定出受微塑料抑制、但受运动激活的“共同调控基因集”。
 
-## 4. 參考文�?(References)
-- **Neva-Calvo, A., et al. (2024).** Exercise-induced genetic reprogramming of the neurovascular niche. *Nature Communications*.
-- **Campisi, J., et al. (2024).** Microplastics in the human brain: Accumulation and association with neurodegenerative diseases. *Environment International*.
-- **Zhen, X., et al. (2024).** GSDMD activation is the key molecular mechanism of inflammatory blood-brain barrier disruption. *Nature*.
+## 4. 参考文献 (References)
+- **Neva-Calvo, A., et al. (2024).** Exercise-induced genetic reprogramming. *Nature Communications*.
+- **Campisi, J., et al. (2024).** Microplastics in the human brain. *Environment International*.
+- **Zhen, X., et al. (2024).** GSDMD activation and BBB disruption. *Nature*.
 
 ---
-[回到目錄](../../README.md)
-
-
+[回到目录](../../README.md)
