@@ -1,5 +1,5 @@
-# Neuro-Logic: The Handbook of Human Brain Decipherment
-## (DRS-Handbook: 大脑退行逻辑解码手册)
+# Dementia Research Handbook: Theory & Clues
+## (DRS-Handbook: 失智症研究逻辑手册)
 
 > **"Understanding the brain is the final frontier of human knowledge; reversing its decline is the ultimate goal of systems biology."**
 
